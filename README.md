@@ -1,11 +1,9 @@
-### Hi there 👋
-
-
+## Olá!!!👋
+Eu sou o Rafael Madruga.
 
 - 🔭 Trabalho atualmente com back-end
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
-
 
 
 <div align="center">
@@ -19,7 +17,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="<img class="image-1091CL" aria-hidden="true" alt="" src="https://discord.com/1b3ecd90-2b94-4abe-88a4-2a314c181c82">">
+  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="<img class="image-1091CL" aria-hidden="true" alt="" src="https://discord.com/1b3ecd90-2b94-4abe-88a4-2a314c181c82">
 </div>
   
   ##
