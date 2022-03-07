@@ -9,7 +9,7 @@ Eu sou o Rafael Madruga.
 <div align="center">
   <a href="https://github.com/abartak">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=abartak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abartak&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abartak&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,8 +17,8 @@ Eu sou o Rafael Madruga.
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="<img class="image-1091CL" aria-hidden="true" alt="" src="https://discord.com/1b3ecd90-2b94-4abe-88a4-2a314c181c82">
-</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/883374187790622770/883374187790622773/950433271987208303">
+  
   
   ##
  
