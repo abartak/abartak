@@ -1,8 +1,11 @@
 ## Olá!!!👋
 Eu sou o Rafael Madruga.
 
-- 🔭 Trabalho atualmente com back-end
-- 🌱 Estudando JavaScript
+- 🔭 Trabalho atualmente com back-end 
+- ✔ JavaScript
+- ✔ CSS
+- ✔ HTML
+- ✔ Python
 - 😄 Pronouns: ele/dele
 
 
